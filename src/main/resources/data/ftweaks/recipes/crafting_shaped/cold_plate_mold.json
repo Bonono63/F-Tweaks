@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SXS",
+    "XCX",
+    "SXS"
+  ],
+  "key":{
+    "C": {
+      "item": "ftweaks:stone_plate"
+    },
+    "X": {
+      "tag": "minecraft:sand"
+    },
+    "S": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result":{
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

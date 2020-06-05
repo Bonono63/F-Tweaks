@@ -1,0 +1,23 @@
+{
+  "itemGroup.ftweaks.group": "FTweaks",
+  "item.ftweaks.iron_scraps": "Iron Scraps",
+  "ftweaks.iron_scraps.tooltip": "§7Equivalent to 3 iron nuggets.",
+  "item.ftweaks.sword_handle": "Sword Grip",
+  "item.ftweaks.hammer": "Hammer",
+  "ftweaks.hammer.tooltip": "A tool used in crafting recipes",
+  "block.ftweaks.poor_iron_ore": "Poor Iron Ore",
+  "ftweaks.poor_iron_ore.tooltip": "Iron ore, but worse.",
+  "item.ftweaks.iron_ore": "Iron Chunk",
+  "item.ftweaks.stone_plate": "Stone Plate",
+  "item.ftweaks.hot_plate_mold": "Hot Plate Mod",
+  "item.ftweaks.hot_plate_mold.tooltip": "§cRed HOT",
+  "item.ftweaks.cold_plate_mold": "Cold Plate Mod",
+  "item.ftweaks.cold_plate_mold.tooltip": "§bIce COLD",
+  "ftweaks.stone_plate.tooltip": "§7Only used for molds.",
+  "ftweaks.stone_ingot.tooltip": "§7Only used for molds.",
+  "item.ftweaks.stone_ingot": "Stone Ingot",
+  "ftweaks.cold_ingot_mold.tooltip": "§bIce COLD",
+  "item.ftweaks.cold_ingot_mold": "Cold Ingot Mold",
+  "ftweaks.hot_ingot_mold.tooltip": "§cRed HOT",
+  "item.ftweaks.hot_ingot_mold": "Hot Ingot Mold"
+}

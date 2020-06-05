@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ftweaks:hot_plate_mold"
+    },
+    {
+      "item": "c:copper_ingot"
+    },
+    {
+      "item": "c:tin_ingot"
+    }
+  ],
+  "result": {
+    "item": "c:bronze_ingot",
+    "count": 1
+  }
+}

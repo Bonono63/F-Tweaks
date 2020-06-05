@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DLD",
+    "D D"
+  ],
+  "key":{
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "L": {
+      "item": "minecraft:iron_leggings"
+    }
+  },
+  "result":{
+    "item": "minecraft:diamond_leggings",
+    "count": 1
+  }
+}

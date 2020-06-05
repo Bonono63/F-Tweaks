@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "  X",
+    " XX"
+  ],
+  "key":{
+    "X": {
+      "item": "ftweaks:iron_scraps"
+    }
+  },
+  "result":{
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

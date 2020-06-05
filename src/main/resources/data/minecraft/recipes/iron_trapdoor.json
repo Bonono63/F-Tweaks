@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II ",
+    "II ",
+    "   "
+  ],
+  "key":{
+    "I": {
+      "item": "c:iron_plate"
+    }
+  },
+  "result":{
+    "item": "minecraft:iron_trapdoor",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "LSL",
+    " X "
+  ],
+  "key":{
+    "L": {
+      "tag": "ftweaks:leather"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:string"
+    }
+  },
+  "result":{
+    "item": "ftweaks:sword_handle",
+    "count": 1
+  }
+}

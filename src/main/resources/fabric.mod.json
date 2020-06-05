@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "ftweaks",
+  "version": "${version}",
+
+  "name": "F Tweaks",
+  "description": "",
+  "authors": [
+    "MrBonono63"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/ftweaks/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mrbonono63.ftweaks.Main"
+    ]
+  },
+  "mixins": [
+    "ftweaks.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
